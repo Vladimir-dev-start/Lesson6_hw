@@ -2,7 +2,7 @@
 //  main.swift
 //  Lesson6_hw
 //
-//  Created by Владимир on 24.04.2021.
+//  Created by Владимир on 25.04.2021.
 //
 import Foundation
 
